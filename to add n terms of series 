@@ -1,0 +1,80 @@
+# a =int(input())
+# d=1
+# s = 0
+# while d<=a:
+#     num = 1/d
+#     print(num,end="+")
+#     s+=num
+#     d+=1
+# print("=",s,"sum of abve series")
+
+# a="umadevi"
+# i=0
+# while i<len(a):
+#     print(ord(a[i]))
+
+# n=int(input("enter number:"))            #polindrom
+# polindrom = n
+# rev=0
+# while n > 0:
+#     r=n%10
+#     rev=rev*10+r
+#     n=n//10
+# if rev==polindrom:
+#     print("polindrom",rev)
+# else:
+#     print("is not a polindrom",rev)
+
+# n=int(input("enter number"))  
+# i=1
+# sum=0
+# while i<=n:
+#     sum=sum+i**2
+#     i+=1
+# print("sum:",sum)
+
+# i=1
+# sum=0
+# while i<=10:
+#     user =int(input('enter number'))
+#     sum=sum+user
+#     i+=1
+# average=sum/10
+# print("average:",average)
+# n=int(input())
+# sum=1
+# i=2
+# while i<=n:
+#     if i%2==0:
+#         sum=sum+(i**2)
+#     else:
+#         sum=sum-(i**2)
+#     i=i+1
+# print(sum)
+# a="computer"
+# i=0
+# while i<len(a):
+#     ch=a[i]
+#     print(ch)
+#     i=i+1
+
+# for i in "computer":
+#     print(i)
+# a="computer"
+# for i in a:
+#     print(i)
+    
+    
+    
+    
+
+
+# n=int(input())
+# sum=0
+# i=100
+# while i<=n:
+#     if i%2==0:
+#        sum=sum+i
+#     i=i+1
+# print(sum)
+
